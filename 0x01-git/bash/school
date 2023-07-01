@@ -1,2 +1,2 @@
 i#!/bin/bash
-iecho "School"
+echo "The school is open!"
